@@ -1,0 +1,27 @@
+@import 'reset.css';
+
+* {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+main {
+  background-color: rgb(220, 236, 236);
+  padding: 20px;
+}
+
+.container-fluid {
+  height: 90px;
+  background-color: rgb(220, 236, 236);
+
+  padding: 20px;
+}
+
+.carousel-inner {
+  width: 500px;
+  padding: 40px;
+}
+
+.btn btn-info {
+  width: 50px;
+  color: rgb(7, 36, 109);
+}
